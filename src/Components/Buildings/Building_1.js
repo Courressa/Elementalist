@@ -21,7 +21,7 @@ export function Building_1(props) {
     transparent: true,
   })
   /*
-   materials['Mirror'] = new THREE.MeshPhysicalMaterial({ // Assuming your material name
+   materials['Mirror'] = new THREE.MeshPhysicalMaterial({
     color: new THREE.Color('#111111'),
     metalness: 1.0,
     roughness: 0.0,
